@@ -7,7 +7,7 @@
 5. Symmetric Crypography Project 
 6. Asymmertrc Cryptography Project 
 
-Research Papers in International Publisher (Published by myself) 
+My Research Papers are Published in International Publisher's on Cryptography are-
 ### 1. https://ieeexplore.ieee.org/document/9199997 This is IEEE Research Paper. Hugely Appreciated!
 ### 2. http://ijsrset.com/IJSRSET196437 This is One of Paper on Hybrid Encryption. Very Interesting!
 
